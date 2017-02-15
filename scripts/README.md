@@ -1,0 +1,31 @@
+Features included as inputs for predictions:
+- TRAP - Trap ID
+- WEEK - Week number
+- YEAR - calendar year
+- CHRON - ID for the week number (starting on 1/1/2007)
+- WNVW1 - Trap was WNV positive on last week
+- WNVW2 - Trap was WNV positive two weeks ago
+- WNVP1** - Percentage of mosquitos found to be WNV positive, out of total mosquitos, on last week
+- WNVP2** - Percentage of mosquitos found to be WNV positive, out of total mosquitos, two weeks ago
+- DWNVP** - Difference in the percentage of mosquitos found to be WNV positive, out of total mosquitos, on from this week to two weeks ago
+- WNVC1** - Close trap was WNV positive on last week
+- WNVC2** - Close trap was WNV positive two weeks ago
+- WNVHT - Total times, on past years, where this trap had positive WNV cases
+- WNVHW - Total times, on past years, where this trap had positive WNV cases on this week
+- CULX1 - Total number of CULEX mosquitos on last week
+- CULX2 - Total number of CULEX mosquitos two weeks ago
+- MSQ50** - Indicator, 1 if CULX1 > 50
+- PIPS1 - Number of CULEX PIPIENS on last week
+- PIPS2 - Number of CULEX PIPIENS two weeks ago
+- REST1 - Number of CULEX RESTUANS on last week
+- REST2 - Number of CULEX RESTUANS two weeks ago
+- OTHR1 - Number of other CULEX on last week
+- OTHR2 - Number of other CULEX two weeks ago
+- TAVG1 - TAVG last week average
+- TMAX1 - TMAX last week average
+- TMIN1 - TMIN last week average
+- PRCP1 - PRCP last week average
+- LAT - Approximate latitude
+- LON - Approximate longitude
+
+**: To be included
